@@ -15,7 +15,7 @@ Community-Enhanced Data: The app features community-enhanced data to ensure that
 
 ### PDPE1 - Personas + Jobs to be done
 
-This folder contains the personas and jobs to be done that were created during the initial stages of the project. Personas are fictional representations of different user types, and jobs to be done are the specific tasks that users are trying to accomplish. These personas and jobs to be done help to guide the design and development of the application.
+This folder contains the personas and jobs to be done that were created during the initial stages of the project. Personas are fictional representations of different user types, and jobs to be done are the specific tasks that users are trying to accomplish. These personas and jobs to be done helped to guide the design and development of the application.
 
 ### PDPE2 - Paper Prototype
 
@@ -23,11 +23,11 @@ This folder contains the paper prototype that was created during the early stage
 
 ### PDPE3 - Research Proposal
 
-This folder contains the research proposal that outlines the research methodology and objectives of the project. The proposal includes information about the research questions that the team will be investigating, the data collection methods that will be used, and the expected outcomes of the research.
+This folder contains the research proposal that outlines the research methodology and objectives of the project. The proposal included information about the research questions that the team investigated, the data collection methods that were used, and the expected outcomes of the research.
 
 ### PDPE4 - Research Questions
 
-This folder contains the specific research questions that the team will be investigating during the project. These questions are designed to help the team understand how users interact with the application and what improvements can be made to enhance the user experience.
+This folder contains the specific research questions that the team will be investigating during the project. These questions were designed to help the team understand how users interacted with the application and what improvements could be made to enhance the user experience.
 
 ### City Buddy.fig
 
