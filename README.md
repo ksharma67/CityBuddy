@@ -31,4 +31,4 @@ This folder contains the specific research questions that the team will be inves
 
 ### City Buddy.fig
 
-This file is a digital version of the paper prototype, created using the Figma design tool. It includes the different screens and user flows that were tested during the paper prototyping phase of the project.
+This file contains various design iterations created during the prototyping phase of the project, ranging from low-fidelity paper prototypes to high-fidelity digital prototypes. It encompasses multiple screens and user flows that were tested throughout the design process, as well as various conceptual ideas that were explored.
